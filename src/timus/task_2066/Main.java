@@ -1,7 +1,5 @@
 package timus.task_2066;
 
-import com.sun.jdi.request.BreakpointRequest;
-
 import java.util.Scanner;
 
 public class Main {
